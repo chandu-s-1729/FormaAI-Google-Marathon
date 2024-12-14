@@ -1,4 +1,4 @@
-# PROPOSAL: Creating a Personalized AI Fitness Coach aimed at providing tailored fitness plans and real-time guidance, enhancing user engagement, and ensuring measurable results in achieving health goals.
+# PROPOSAL: Forma AI: Pesonalized AI Fitness Coach
 
 **Author:** ChanduKalisetti
 **Co-Author:** SravyaDiwakarla
